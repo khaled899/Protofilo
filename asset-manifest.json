@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Protofilo/static/css/main.1b4d70fa.css",
+    "main.js": "/Protofilo/static/js/main.6e7df79b.js",
+    "static/media/Paralex.png": "/Protofilo/static/media/Paralex.099a83e4e36ea5ee6e3f.png",
+    "static/media/Movies.png": "/Protofilo/static/media/Movies.df247f2ca43517e7c5c5.png",
+    "static/media/Games.png": "/Protofilo/static/media/Games.06a3a7c63330377da31c.png",
+    "static/media/University.png": "/Protofilo/static/media/University.2fd08adbbfdf5e7928a2.png",
+    "static/media/Wooster.png": "/Protofilo/static/media/Wooster.88c2ba53afb0a9f2bc0b.png",
+    "static/media/Education.png": "/Protofilo/static/media/Education.cb52ff134e361a85154d.png",
+    "static/media/Khaled_CV.pdf": "/Protofilo/static/media/Khaled_CV.b851fca4897ca0722400.pdf",
+    "static/media/portfolio3.jpg": "/Protofilo/static/media/portfolio3.b8cadb4e69e6fd0453da.jpg",
+    "index.html": "/Protofilo/index.html",
+    "main.1b4d70fa.css.map": "/Protofilo/static/css/main.1b4d70fa.css.map",
+    "main.6e7df79b.js.map": "/Protofilo/static/js/main.6e7df79b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b4d70fa.css",
+    "static/js/main.6e7df79b.js"
+  ]
+}
